@@ -1,5 +1,8 @@
 # NeuroDNA-Prosthetics-AI-Enhanced-DNA-Driven-Personalized-Prosthetics of Tomorrow
 
+# Ideation prototype link - [link](https://www.youtube.com/watch?v=pDqdarKKxVw)
+
+
 ## Description
 
 ### Overview
